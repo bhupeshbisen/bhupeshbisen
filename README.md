@@ -6,7 +6,7 @@
 
 - Programming Languages: Python, SQL
 - Data Science Libraries: Pandas, Numpy, Scikit-learn, TensorFlow, NLTK
-- Visualization: Matplotlib, Seaborn, Plotly
+- Visualization: Matplotlib, Seaborn, Plotly,Power BI
 - Tools: Jupyter Notebook, VS Code, Git, Streamlit
 <!---
 bhupeshbisen/bhupeshbisen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
